@@ -14,6 +14,6 @@
 
 ###
 
-<h2 align="center">⚠️ Disclaimer:<br>This tool is intended for educational and testing purposes only. Its use may violate GitHub’s Terms of Service. The user is solely responsible for any misuse.</h2>
+<h2 align="left">⚠️ Disclaimer:<br>This tool is intended for educational and testing purposes only. Its use may violate GitHub’s Terms of Service. The user is solely responsible for any misuse.</h2>
 
 ###
